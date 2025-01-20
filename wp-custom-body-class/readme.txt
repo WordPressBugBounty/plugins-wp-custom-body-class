@@ -2,8 +2,8 @@
 Contributors: euthelup
 Tags: custom, body, css, class
 Requires at least: 5.2.0
-Tested up to: 6.0.0
-Stable tag: 0.7.3
+Tested up to: 6.7.1
+Stable tag: 0.7.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,10 +26,9 @@ the class. For example, if you want to have the class "car" for mobile side, you
 If you find this plugin helpful, or you just want to send me a coffee here are the ways:
 
 * Use the Github Sponsor button
-* [Patreon](https://www.patreon.com/thelup)
 * [Ko-fi](https://ko-fi.com/thelup)
 * Watch me coding on [twitch.tv/thelup](https://www.twitch.tv/thelup/)
-* Or simply visit my site [lup.dev](https://a.lup.dev/) and make those analytics ring.
+* Or simply visit my site [lup.dev](https://a.lup.dev/) and make those analytics ring the bells.
 
 == Installation ==
 
@@ -37,6 +36,9 @@ If you find this plugin helpful, or you just want to send me a coffee here are t
 2. After activating Custom Body Class go to any edit page and see the Custom Body Class metabox in the right sidebar.
 
 == Changelog ==
+
+= 0.7.4 =
+* Update: Check compatibility with WordPress 6.7.1 and PHP 8.2.
 
 = 0.7.3 =
 * Update: Check compatibility with 6.0.0.
